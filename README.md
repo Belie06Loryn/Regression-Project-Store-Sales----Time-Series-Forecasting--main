@@ -43,4 +43,4 @@ Give a ⭐️ if you like this project!
 
 ---
 
-<p>&copy; 2023 Ikogho Emmanuel</p>
+<p>&copy; 2023 AlexieM</p>
